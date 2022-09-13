@@ -1,0 +1,2 @@
+[build]
+  functions = "functions" //폴더이름 명시
